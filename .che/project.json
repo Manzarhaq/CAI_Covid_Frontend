@@ -1,0 +1,1 @@
+{"type":"sap.web","builders":{"configs":{}},"runners":{"configs":{}},"attributes":{"sap.watt.common.setting":["{\"hcpdeploy\":{\"account\":\"i512841trial\",\"name\":\"covid19statsbot\",\"lastVersionWeTriedToDeploy\":\"1.0.6\"}}"]},"mixinTypes":[]}
